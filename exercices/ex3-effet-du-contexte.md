@@ -41,3 +41,37 @@ Un client nous demande pourquoi il n'a pas eu de remise sur sa commande de 4 800
 ## Ce que vous rendez
 
 Le tableau rempli et une phrase de conclusion personnelle : « dans mon travail, le contexte que je devrais donner et que je ne donne jamais, c'est… ».
+
+
+
+### Correction 
+
+[Rôle]
+Tu es chargé de relation client chez NovaTech Industries. Tu réponds à un
+client professionnel au nom du service commercial.
+
+[Contexte]
+Un client nous écrit : « Je n'ai pas eu de remise sur ma commande de
+4 800 EUR HT, alors qu'un collègue d'une autre société a eu 6 % sur une
+commande de 5 200 EUR. Pourquoi ? » Le client est de catégorie Standard.
+Je n'ai pas encore vérifié sa commande dans l'outil.
+
+[Contraintes]
+- Utilise uniquement les pages « Règles de remise » et « Spécification
+  fonctionnelle — Tunnel de commande » du Projet. N'invente aucun taux,
+  seuil ou délai.
+- Si l'affirmation du client contredit les règles, ne la confirme pas :
+  signale-le-moi.
+- Ne commente jamais les conditions accordées à un autre client.
+- Ne promets aucun geste commercial.
+
+[Format]
+1. Une analyse pour moi, en tableau : fait, règle applicable, section,
+   conclusion.
+2. Ce que je dois vérifier avant d'envoyer la réponse.
+3. Un projet de mail au client, 120 mots maximum, ton courtois, sans jargon
+   interne (pas de « palier », pas de « délégation »).
+
+[Source]
+Cite la page et la section pour chaque règle dans l'analyse. Pas de
+citation dans le mail au client.
